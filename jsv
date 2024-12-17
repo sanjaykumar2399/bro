@@ -1,0 +1,26 @@
+
+//let employe = 33
+//let employe  = 33
+
+console.log(employe);
+
+let id = 24
+
+console.log(id);
+
+let numbers = ([22,34,45,56]);
+
+console.log = (numbers);
+
+let object = [apple,orange,banana];
+
+console.log = (object)
+
+//string//
+var str = "today chillmate is chill"
+
+console.log(str.length);
+
+console.log()
+
+
